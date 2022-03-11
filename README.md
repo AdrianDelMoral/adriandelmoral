@@ -3,7 +3,6 @@
 ### 🌱 I’m currently learning JavaScript CSS & Angular
 ### 💞️ I’m looking to collaborate on business
 ### 📫 How to reach me: 
-  * [Twitter](https://twitter.com/iFullSt)
   * [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-del-moral/)
 <!---
 AdrianDelMoral/AdrianDelMoral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
