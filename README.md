@@ -7,7 +7,7 @@ Hey there ! I´m Adrian, a dev who loves anime, games and ✨ web design ✨
 ## Find me 🔍
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/antonio-cort%C3%A9s-jim%C3%A9nez/](https://www.linkedin.com/in/adri%C3%A1n-del-moral/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.delmoral.martin@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: adrian.delmoral.martin@gmail.com)
 
 ## Languajes and Tools 🛠️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
