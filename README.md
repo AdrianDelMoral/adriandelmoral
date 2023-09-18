@@ -3,6 +3,9 @@
 ## About me ✍️
 
 Hey there ! I´m Adrian, a dev who loves anime, games and ✨ web design ✨
+- 🙋‍♂️ Junior Full Stack developer
+- 🌍 Valencia, Spain
+- 🌱 I’m currently learning React and Backend with JavaScript
 
 ## Find me 🔍
 
